@@ -65,6 +65,8 @@ echo "<br>the value of a is;",$a;
             echo "<br>The value is from foreach loop:",$value;
         }
 
+
+        //functions in php
         function print5($varr,$varr1){
             echo "Hello",$varr,$varr1;
         }
